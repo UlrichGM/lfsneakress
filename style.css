@@ -1,0 +1,43 @@
+body{
+    background: url("unnamed.jpg")no-repeat;
+    background-position: 50% -2%;
+    display: grid;
+    place-items: center;
+}
+
+div{
+    display: grid;
+    place-items: center;
+}
+div h1{
+    position: relative;
+    display: flex;
+    justify-content: space-around;    
+    background-color: rgb(177, 172, 172);
+    border: solid rgb(177, 172, 172) 20px;
+    width: 130px;
+    top: 40%;
+    border-radius: 100px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Shantell Sans', cursive;
+
+}
+
+div button{
+    position: relative;
+    height: 86px;
+    width: 320px;
+    border-radius: 10px;
+    top: 90px;
+    margin-top: 30px; 
+    font-family: 'Bakbak One', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Marhey', sans-serif;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Shantell Sans', cursive;
+    font-size: 50px;
+    background-color:rgb(177, 172, 172);
+}
